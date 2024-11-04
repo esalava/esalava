@@ -1,5 +1,5 @@
 # Hi, welcome to my profile:
-My name is Eduardo but you can also call me Ed.<br>👨🏻‍💻 I'm a Computer Science Engineer<br/>👨🏻‍🎓 I graduated from [Escuela Superior Politécnica del Litoral](https://www.espol.edu.ec/es), Ecuador<br>📕 Currently learning (mastering) Web Development.<br>📦 And, working on my portfolio.
+My name is Eduardo but you can call me Ed.<br>👨🏻‍💻 I'm a Computer Science Engineer<br/>👨🏻‍🎓 I graduated from [Escuela Superior Politécnica del Litoral](https://www.espol.edu.ec/es), Ecuador<br>📕 Currently learning (mastering) Web Development.<br>📦 And, working on my portfolio.
 
 # My socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eesalava/) 
